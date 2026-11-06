@@ -1,3 +1,3 @@
 # elgato-gchd-lite
 elgato-gchd-lite is a fork of elgato-gchd but made to work in 2026 Linux
-this is a work in progress 
+but for now this is a work in progress 
